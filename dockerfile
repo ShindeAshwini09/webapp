@@ -1,2 +1,1 @@
- apt update
- apt install nodejs
+npm install express
